@@ -1,18 +1,17 @@
-<!-- README for github.com/arshprem01/arshprem01 -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hi+there%2C+I%27m+Arsh+Prem+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI%2FML+Builder;Ruby+on+Rails+%7C+Python+%7C+React;Always+be+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Arsh%20Prem&fontSize=60&fontColor=58A6FF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%2FML&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://github.com/arshprem01"><img src="https://komarev.com/ghpvc/?username=arshprem01&label=Profile+views&color=378ADD&style=flat" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/arsh-prem-0606542b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://arshprem01.github.io/arshprem-web"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:arshprem01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Ruby+on+Rails+%E2%9C%A6+Node.js+%E2%9C%A6+React;Python+%E2%9C%A6+FastAPI+%E2%9C%A6+Docker;Building+things+that+run+in+prod;Open+to+SWE+roles+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/arsh-prem-0606542b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://arshprem01.github.io/arshprem-web"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:arshprem01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=arshprem01&label=Profile+Views&color=58A6FF&style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -53,6 +52,8 @@ a3f9b21  feat: always be shipping ✓
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -122,6 +123,6 @@ a3f9b21  feat: always be shipping ✓
 
 ---
 
-<p align="center">
-  <i>Open to internships and full-time SWE roles · Let's build something great.</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1b27,100:0d1117&height=120&section=footer" />
+</div>
