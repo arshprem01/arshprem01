@@ -1,11 +1,9 @@
 <!-- README for github.com/arshprem01/arshprem01 -->
 
-<!-- Typing SVG banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arsh+Prem+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack;AI+%2F+ML+Builder;Always+be+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Profile views + socials -->
 <p align="center">
   <a href="https://github.com/arshprem01"><img src="https://komarev.com/ghpvc/?username=arshprem01&label=Profile+views&color=378ADD&style=flat" /></a>
   &nbsp;
@@ -70,7 +68,6 @@ a3f9b21  feat: always be shipping ✓
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshprem01&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshprem01&theme=tokyo-night&hide_border=true&radius=8" />
 </p>
@@ -88,7 +85,7 @@ a3f9b21  feat: always be shipping ✓
     </td>
     <td width="50%">
       <h3>🧬 Human Digital Twin</h3>
-      <p>AI platform that builds a virtual patient replica from medical & wearable data — predicts health risks and simulates treatment outcomes.</p>
+      <p>AI platform that builds a virtual patient replica from medical and wearable data — predicts health risks and simulates treatment outcomes.</p>
       <p><code>FastAPI</code> <code>Next.js</code> <code>ML</code> <code>FHIR</code> <code>MongoDB</code> <code>Docker</code></p>
     </td>
   </tr>
@@ -119,29 +116,9 @@ a3f9b21  feat: always be shipping ✓
 
 ## 🐍 Contribution Snake
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: arshprem01
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arshprem01/arshprem01/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</p>
 
 ---
 
