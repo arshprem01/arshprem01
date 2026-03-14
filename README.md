@@ -1,7 +1,7 @@
 <!-- README for github.com/arshprem01/arshprem01 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arsh+Prem+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack;AI+%2F+ML+Builder;Always+be+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hi+there%2C+I%27m+Arsh+Prem+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI%2FML+Builder;Ruby+on+Rails+%7C+Python+%7C+React;Always+be+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
